@@ -11,9 +11,9 @@ This project involves **data exploration and analysis of job roles and salaries 
 ## 🛠️ Tools & Technologies
 
 - **SQL** (Structured Query Language)
-- PostgreSQL / MySQL (or specify DBMS used)
+-  MySQL
 - CSV file as the data source
-- DB Browser / pgAdmin (optional: specify your environment)
+- DB Browser
 
 ## 📊 Key Insights
 
